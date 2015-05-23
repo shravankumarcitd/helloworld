@@ -1,0 +1,6 @@
+This my first repo 
+Username: shravankumarcitd
+email: shravankumarcitd@gmail.com
+
+I just cloned helloworld repo into GIT folder into my computer
+
